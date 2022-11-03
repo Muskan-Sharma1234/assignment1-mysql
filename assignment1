@@ -2,9 +2,9 @@
 
 SHOW DATABASES;
 
-CREATE DATABASE anil;
+CREATE DATABASE muskan;
 
-USE anil;
+USE muskan;
 
 CREATE TABLE SalesPeople (
 Snum varchar(30),
